@@ -1,10 +1,8 @@
 {
-    "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-    "dest": "../../release/ng-state",
-    "lib": {
-        "entryFile": "src/public-api.ts"
-    },
-    "whitelistedNonPeerDependencies": [
-        "@ng-state/data-strategy"
-    ]
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../release/ng-state",
+  "lib": {
+    "entryFile": "src/public-api.ts"
+  },
+  "allowedNonPeerDependencies": ["@ng-state/data-strategy"]
 }

@@ -1,31 +1,31 @@
 {
-    "name": "@ng-state/data-strategy",
-    "version": "1.6.2",
-    "description": "Contract for different data strategies",
-    "homepage": "https://github.com/ng-state/store#readme",
-    "keywords": [
-        "ng-state",
-        "rxjs",
-        "immer",
-        "immutablejs",
-        "angular",
-        "state",
-        "management",
-        "typescript",
-        "angular",
-        "store",
-        "store",
-        "observable",
-        "data",
-        "store",
-        "redux",
-        "javascript",
-        "observable store",
-        "angular store"
-    ],
-    "author": "Vytautas Pranskunas <vytautas.pranskunas@gmail.com>",
-    "license": "MIT",
-    "peerDependencies": {
-        "rxjs": "^6.5.3"
-    }
+  "name": "@ng-state/data-strategy",
+  "version": "1.6.3",
+  "description": "Contract for different data strategies",
+  "homepage": "https://github.com/ng-state/store#readme",
+  "keywords": [
+    "ng-state",
+    "rxjs",
+    "immer",
+    "immutablejs",
+    "angular",
+    "state",
+    "management",
+    "typescript",
+    "angular",
+    "store",
+    "store",
+    "observable",
+    "data",
+    "store",
+    "redux",
+    "javascript",
+    "observable store",
+    "angular store"
+  ],
+  "author": "Vytautas Pranskunas <vytautas.pranskunas@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "rxjs": "^6.5.5"
+  }
 }

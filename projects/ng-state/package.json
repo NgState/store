@@ -1,47 +1,47 @@
 {
-    "name": "@ng-state/store",
-    "version": "6.8.11",
-    "description": "RxJS and ImmutableJs powered nested state management for Angular2 apps inspired by @ngrx.",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/ng-state/store.git"
-    },
-    "keywords": [
-        "ng-state",
-        "rxjs",
-        "immer",
-        "immutablejs",
-        "angular",
-        "state",
-        "management",
-        "typescript",
-        "angular",
-        "store",
-        "store",
-        "observable",
-        "data",
-        "store",
-        "redux",
-        "javascript",
-        "observable store",
-        "angular store"
-    ],
-    "author": "Vytautas Pranskunas <vytautas.pranskunas@gmail.com>",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/ng-state/store/issues"
-    },
-    "homepage": "https://github.com/ng-state/store#readme",
-    "dependencies": {
-        "@ng-state/data-strategy": "^1.6.2"
-    },
-    "peerDependencies": {
-        "@angular/common": "^8.2.0",
-        "@angular/core": "^8.2.0",
-        "@angular/router": "^8.2.0",
-        "@angular/platform-browser": "^8.2.0",
-        "core-js": "^2.5.1",
-        "rxjs": "^6.5.3",
-        "zone.js": "^0.9.1"
-    }
+  "name": "@ng-state/store",
+  "version": "6.8.12",
+  "description": "RxJS and ImmutableJs powered nested state management for Angular2 apps inspired by @ngrx.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng-state/store.git"
+  },
+  "keywords": [
+    "ng-state",
+    "rxjs",
+    "immer",
+    "immutablejs",
+    "angular",
+    "state",
+    "management",
+    "typescript",
+    "angular",
+    "store",
+    "store",
+    "observable",
+    "data",
+    "store",
+    "redux",
+    "javascript",
+    "observable store",
+    "angular store"
+  ],
+  "author": "Vytautas Pranskunas <vytautas.pranskunas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ng-state/store/issues"
+  },
+  "homepage": "https://github.com/ng-state/store#readme",
+  "dependencies": {
+    "@ng-state/data-strategy": "^1.6.2"
+  },
+  "peerDependencies": {
+    "@angular/common": "^11.2.9",
+    "@angular/core": "^11.2.9",
+    "@angular/router": "^11.2.9",
+    "@angular/platform-browser": "^11.2.9",
+    "core-js": "^2.6.9",
+    "rxjs": "^6.5.5",
+    "zone.js": "^0.10.2"
+  }
 }

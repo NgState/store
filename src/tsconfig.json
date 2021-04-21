@@ -16,21 +16,22 @@
             ],
             "@ng-state/store": [
                 "../release/ng-state"
-            ],
+            ]
         },
         "outDir": "../../release/app",
         "baseUrl": "./",
-        "module": "esnext",
         "types": [
             "node"
         ]
     },
-    "exclude": [
-        "test.ts",
-        "**/*.spec.ts"
-    ],
     "angularCompilerOptions": {
-        "preserveWhitespaces": false,
-        "enableIvy": false
-    }
+        "preserveWhitespaces": false
+    },
+    "files": [
+        "main.ts",
+        "polyfills.ts"
+    ],
+    "include": [
+        "src/**/*.d.ts"
+    ]
 }

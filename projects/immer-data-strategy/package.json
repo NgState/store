@@ -1,38 +1,38 @@
 {
-    "name": "@ng-state/immer-data-strategy",
-    "version": "1.7.5",
-    "description": "Immer data strategy for @ng-state/store",
-    "homepage": "https://github.com/ng-state/store#readme",
-    "keywords": [
-        "ng-state",
-        "rxjs",
-        "immer",
-        "immutablejs",
-        "angular",
-        "state",
-        "management",
-        "typescript",
-        "angular",
-        "store",
-        "store",
-        "observable",
-        "data",
-        "store",
-        "redux",
-        "javascript",
-        "observable store",
-        "angular store"
-    ],
-    "author": "Vytautas Pranskunas",
-    "license": "ISC",
-    "peerDependencies": {
-        "@ng-state/data-strategy": "^1.6.2",
-        "immer": "^5.0.0"
-    },
-    "dependencies": {
-        "deep-equal": "^2.0.1"
-    },
-    "devDependencies": {
-        "@types/deep-equal": "^1.0.1"
-    }
+  "name": "@ng-state/immer-data-strategy",
+  "version": "1.7.6",
+  "description": "Immer data strategy for @ng-state/store",
+  "homepage": "https://github.com/ng-state/store#readme",
+  "keywords": [
+    "ng-state",
+    "rxjs",
+    "immer",
+    "immutablejs",
+    "angular",
+    "state",
+    "management",
+    "typescript",
+    "angular",
+    "store",
+    "store",
+    "observable",
+    "data",
+    "store",
+    "redux",
+    "javascript",
+    "observable store",
+    "angular store"
+  ],
+  "author": "Vytautas Pranskunas",
+  "license": "ISC",
+  "peerDependencies": {
+    "@ng-state/data-strategy": "^1.6.3",
+    "immer": "^5.0.0"
+  },
+  "dependencies": {
+    "deep-equal": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/deep-equal": "^1.0.1"
+  }
 }

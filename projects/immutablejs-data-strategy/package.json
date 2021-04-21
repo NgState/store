@@ -1,33 +1,33 @@
 {
   "name": "@ng-state/immutablejs-data-strategy",
-  "version": "1.7.1",
-    "description": "ImmutableJs data strategy for @ng-state/store",
-    "homepage": "https://github.com/ng-state/store#readme",
-    "keywords": [
-        "ng-state",
-        "rxjs",
-        "immer",
-        "immutablejs",
-        "angular",
-        "state",
-        "management",
-        "typescript",
-        "angular",
-        "store",
-        "store",
-        "observable",
-        "data",
-        "store",
-        "redux",
-        "javascript",
-        "observable store",
-        "angular store"
-    ],
-    "author": "Vytautas Pranskunas",
-    "license": "ISC",
-    "peerDependencies": {
-        "@ng-state/data-strategy": "^1.6.2",
-        "immutable": "^3.8.1",
-        "immutable-cursor": "^2.0.0"
-    }
+  "version": "1.7.2",
+  "description": "ImmutableJs data strategy for @ng-state/store",
+  "homepage": "https://github.com/ng-state/store#readme",
+  "keywords": [
+    "ng-state",
+    "rxjs",
+    "immer",
+    "immutablejs",
+    "angular",
+    "state",
+    "management",
+    "typescript",
+    "angular",
+    "store",
+    "store",
+    "observable",
+    "data",
+    "store",
+    "redux",
+    "javascript",
+    "observable store",
+    "angular store"
+  ],
+  "author": "Vytautas Pranskunas",
+  "license": "ISC",
+  "peerDependencies": {
+    "@ng-state/data-strategy": "^1.6.3",
+    "immutable": "^3.8.1",
+    "immutable-cursor": "^2.0.0"
+  }
 }

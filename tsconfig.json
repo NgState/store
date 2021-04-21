@@ -5,7 +5,7 @@
         "stripInternal": true,
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
-        "module": "commonjs",
+        "module": "esnext",
         "moduleResolution": "node",
         "noEmitOnError": false,
         "esModuleInterop": true,
