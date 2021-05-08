@@ -62,7 +62,7 @@
         "immutable-cursor": "^2.0.1",
         "jest": "^24.5.0",
         "jest-preset-angular": "^8.0.0",
-        "ng-packagr": "^4.7.1",
+        "ng-packagr": "^10.1.1",
         "ngx-take-until-destroy": "^5.4.0",
         "rxjs": "6.5.3",
         "ts-jest": "^24.0.0",
